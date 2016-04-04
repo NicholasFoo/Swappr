@@ -23,7 +23,8 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".Login" >
+            android:name=".Login"
+            android:theme="@android:style/Theme.NoTitleBar" >
         </activity>
     </application>
 
